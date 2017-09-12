@@ -70,10 +70,10 @@
 
     <gap:plugin name="org.apache.cordova.camera" source="npm" />
     <plugin name="org.apache.cordova.media-capture" spec="0.3.3" source="pgb" />
-    <gap:plugin name="org.apache.cordova.console" />
-    <gap:plugin name="org.apache.cordova.contacts" />
-    <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.file" />
+    <gap:plugin name="org.apache.cordova.console"source="npm"  />
+    <gap:plugin name="org.apache.cordova.contacts"source="npm"  />
+    <gap:plugin name="org.apache.cordova.device"source="npm"  />
+    <gap:plugin name="org.apache.cordova.file"source="npm"  />
     <gap:plugin name="org.apache.cordova.file-transfer" />
     <gap:plugin name="org.apache.cordova.globalization" />
     <gap:plugin name="org.apache.cordova.inappbrowser" />
