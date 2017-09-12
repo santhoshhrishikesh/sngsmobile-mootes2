@@ -69,7 +69,7 @@
     <gap:platform name="android" />
 
     <gap:plugin name="org.apache.cordova.camera" source="npm" />
-    <gap:plugin name="org.apache.cordova.media-capture" />
+    <plugin name="org.apache.cordova.media-capture" spec="0.3.3" source="pgb" />
     <gap:plugin name="org.apache.cordova.console" />
     <gap:plugin name="org.apache.cordova.contacts" />
     <gap:plugin name="org.apache.cordova.device" />
