@@ -70,7 +70,7 @@
 
     <gap:plugin name="org.apache.cordova.camera" source="npm" />
     <plugin name="org.apache.cordova.media-capture" spec="0.3.3" source="pgb" />
-    <gap:plugin name="org.apache.cordova.console"source="pgb"  />
+    <gap:plugin name="org.apache.cordova.console"source="rpm"  />
     <gap:plugin name="org.apache.cordova.contacts"  />
     <gap:plugin name="org.apache.cordova.device"  />
     <gap:plugin name="org.apache.cordova.file"  />
